@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.0",
+  "authors": [
+    "Kai Chu Chung <cage.chung@gmail.com>"
+  ],
+  "description": "node express startup structure",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
